@@ -34,3 +34,6 @@ This repository contains my Week 1 portfolio site
 
 ## Live Demo
 [View Live Site] (https://sketchalien.github.io/iyf-s12-week-01-SketchAlien/)
+
+## Technical Article (Task 2.5)
+- [Read my article on Semantic HTML & Accessibility](https://www.linkedin.com/pulse/accessibility-what-i-learned-fixed-benny-njuguna-jm3hf/)
