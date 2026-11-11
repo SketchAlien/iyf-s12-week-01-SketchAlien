@@ -1,7 +1,7 @@
 ## Week 1: Web Foundations
 
 ## Author
-**Name:** SketchAlien
+**Name:** Benny Njuguna
 **GitHub:* [@SketchAlien]*https://github.com/SketchAlien)
 **Date:** October 29, 2026
 
